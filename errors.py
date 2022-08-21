@@ -1,5 +1,4 @@
 class Errors:
-
     """This class processes user input by reading the user inputted file and comparing it to the dictionary 
        to create a list of spelling errors which must be corrected. 
     """    

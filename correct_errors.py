@@ -19,8 +19,8 @@ class CorrectErrors:
            to check if the correct words are real words.
 
         Args:
-            words: fixed words
-            words1: _description_
+            words: fixed word
+            words1: word from dictionary
 
         Returns:
             common: a list of corrected words that match words from the dictionary.
@@ -177,7 +177,7 @@ class CorrectErrors:
 
 
     def letter_swap(self, word):
-        """This fucntion swaps out one letter for another to make the word correct.
+        """This function swaps out one letter for another to make the word correct.
 
         Args:
             word: incorrect misspleled word

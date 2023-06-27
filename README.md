@@ -3,6 +3,7 @@ The easy and convenient spell-checker to fix all your daily spelling mistakes!
 
 Link to full project report:  https://docs.google.com/document/d/11HFOw1-YGaJOae5MZ1fyPvMFWUceCOkywo2IHA3Qwqg/edit?usp=sharing
 
+
 stellar_speller.py - Runs both classes and corrects the spelling mistakes on the user's text file.
 
 errors.py - The Errors class processes user input by reading the user inputted file and comparing it to the dictionary to create a list of spelling errors which must be corrected.

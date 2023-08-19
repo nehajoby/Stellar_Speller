@@ -7,7 +7,7 @@ STELLAR SPELLER SETUP INSTRUCTIONS
 Visual Studio Code (VS Code) - Download and install from here: https://code.visualstudio.com/download.
 Python - Download and install from here: https://www.python.org/downloads/.
 
-2. Set Up Project Files from the GitHub Repository:
+3. Set Up Project Files from the GitHub Repository:
 Download the following files:
 `stellar_speller_main.py`
 `errors.py`
@@ -15,20 +15,20 @@ Download the following files:
 `dictionary.txt` (For English language users)
 Save these files into a dedicated folder on your desktop or a location of your choice.
 
-3. User Input Text File:
+4. User Input Text File:
 Create a text file containing the passage you want to check for spelling errors. 
 For example, name it `sample_passage.txt`.
 
-4. Launch VS Code:
+5. Launch VS Code:
 Open VS Code.
 Navigate to the folder where you saved the Stellar Speller project files.
 Also, open your user input text passage (e.g., `sample_passage.txt`) in VS Code.
 
-5. Run the Code:
+6. Run the Code:
 In VS Code, open the `stellar_speller_main.py` file.
 Execute the file to start the spell-checking process.
 
-6. All set!
+7. All set!
 You can now proceed with the spell-checking using the Stellar Speller. Enjoy :)
 
 

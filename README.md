@@ -36,7 +36,7 @@ You can now proceed with the spell-checking using the Stellar Speller. Enjoy :)
 Link to full project report:  https://docs.google.com/document/d/11HFOw1-YGaJOae5MZ1fyPvMFWUceCOkywo2IHA3Qwqg/edit?usp=sharing
 
 
-stellar_speller.py - Runs both classes and corrects the spelling mistakes on the user's text file.
+stellar_speller_main.py - Runs both classes and corrects the spelling mistakes on the user's text file.
 
 errors.py - The Errors class processes user input by reading the user inputted file and comparing it to the dictionary to create a list of spelling errors which must be corrected.
 

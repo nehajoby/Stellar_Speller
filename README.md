@@ -33,7 +33,7 @@ You can now proceed with the spell-checking using the Stellar Speller. Enjoy :)
 
 
 
-Link to full project report:  https://docs.google.com/document/d/11HFOw1-YGaJOae5MZ1fyPvMFWUceCOkywo2IHA3Qwqg/edit?usp=sharing
+Link to full project report:  https://docs.google.com/document/d/11HFOw1-YGaJOae5MZ1fyPvMFWUceCOkywo2IHA3Qwqg/edit?usp=sharing.
 
 
 stellar_speller_main.py - Runs both classes and corrects the spelling mistakes on the user's text file.
